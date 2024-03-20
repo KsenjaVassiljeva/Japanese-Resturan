@@ -55,7 +55,6 @@ nav ul li a {
     font-size: 25px;
 }
 
-
 .more_img {
     width: 42%;
     display: block;
@@ -71,7 +70,7 @@ nav ul li a {
 
 .more_img3 {
     position: relative;
-    top: -750px;
+    top: -1750px;
     right: -260px;
     width: 10%;
     display: block;
@@ -80,45 +79,108 @@ nav ul li a {
 
 .more_img4 {
     position: relative;
-    top: -816px;
+    top: -1816px;
     width: 25%;
     left: 981px;
     display: block;
 }
 
 .sakura {
-    margin-top: -402px;
-    width: 15%;
+    margin-top: -1402px;
+    width: 20%;
     display: block;
     margin-left: 1300px;
 }
 
 .textSakura {
-    margin-top: -850px;
+    margin-top: -1050px;
     width: 30%;
     display: block;
     margin-left: 875px;
 }
 
 .textsak {
-    margin-top: 500px;
+    margin-top: 300px;
     width: 35%;
     display: block;
     margin-left: 590px;
 }
 
-#hero h2 {
-    margin: 0;
+.food {
+    margin-top: 21px;
+    width: 15%;
+    display: block;
+    margin-left: 590px;
+    text-decoration: auto;
+    font-family: "Marcellus", serif;
+    font-weight: 500;
 }
 
-.btn {
-    display: inline-block;
-    background-color: #FF7F50;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    margin-top: 20px;
+.drink {
+    margin-top: -400px;
+    width: 15%;
+    display: block;
+    margin-left: 902px;
+    text-decoration: auto;
+}
+
+.food-text {
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 400px;
+    font-family: "Marcellus", serif;
+    font-weight: 500;
+}
+
+.drink-text {
+    margin-top: 30px; 
+    display: block; 
+    text-align: center;
+    font-weight: bold;
+    margin-right: -230px;
+    font-family: "Marcellus", serif;
+    font-weight: 500;
+}
+
+.Menu{
+    margin-top: 150px;
+    width: 25%;
+    display: block;
+    margin-left: 100px;
+}
+
+.Japan{
+    margin-top: 150px;
+    width: 33%;
+    display: block;
+    margin-left: 100px;
+}
+
+.text2 {
+    margin-top: -602px;
+    width: 30%;
+    display: block;
+    margin-left: 750px;
+}
+
+.Jiro {
+    margin-top: -450px;
+    width: 15%;
+    display: block;
+    margin-left: 1350px;
+}
+ 
+.text4{
+    margin-top: 100px;
+    width: 30%;
+    display: block;
+    margin-left: 1080px;
+}
+
+#hero h2 {
+    margin: 0;
 }
 
 #about {
