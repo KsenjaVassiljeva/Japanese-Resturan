@@ -93,7 +93,7 @@ nav ul li a {
 }
 
 .textSakura {
-    margin-top: -1050px;
+    margin-top: -1100px;
     width: 30%;
     display: block;
     margin-left: 875px;
@@ -145,7 +145,7 @@ nav ul li a {
 }
 
 .Menu{
-    margin-top: 150px;
+    margin-top: 250px;
     width: 25%;
     display: block;
     margin-left: 100px;
@@ -188,10 +188,52 @@ nav ul li a {
     padding: 50px 0;
     text-align: center;
 }
+.gallery {
+    margin-top: 240px;
+    width: 100%;
+}
 
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
+.foto-gallery1 {
+    margin-top: 150px;
+    width: 30%;
+    display: block;
+    margin-left: 100px;
+}
+
+.foto-gallery2 {
+    position: relative;
+    bottom: 750px;
+    width: 27%;
+    display: block;
+    left: 450px;
+}
+
+.foto-gallery3 {
+    position: relative;
+    bottom: 1450px;
+    width: 25%;
+    display: block;
+    left: 1050px;
+}
+
+.foto-gallery4 {
+    position: relative;
+    bottom: 1650px;
+    width: 30%;
+    display: block;
+    left: 1150px;
+}
+
+.book {
+    position: relative;
+    bottom: 1250px;
+    width: 80%;
+    left: 100px;
+}
+
+.umbrella {
+    position: relative;
+    bottom: 1450px;
+    width: 50%;
+    right: 100px;
 }
