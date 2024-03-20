@@ -1,6 +1,6 @@
 # Japanese-Resturan
 ## figma version
-![my figma version](file:///D:/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C/Group%203.png)
+![my figma version](https://www.figma.com/file/h1PoaIOlXuE3Xg7bAGvMg2/Untitled?type=design&node-id=0%3A1&mode=design&t=G7zVlLTZ7NOfaR3P-1)
 
 ## Original
 https://dribbble.com/shots/23242543-Japanese-Restaurant-Website-Redesign
